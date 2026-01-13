@@ -17,3 +17,4 @@ sudo apt -y bloodhound
 echo "[*] Run bloodhound-setup...]"
 yes | bloodhound
 
+echo "[!] Reminder: update /etc/bhapi/bhapi.json if prompted" 
